@@ -22,7 +22,6 @@ function cellClicked() {
       checkWinner ()
       alert("You won X")  
     }
-   // checkWinner ()
 }
 
 function checkWinner() {
@@ -37,7 +36,5 @@ function checkWinner() {
         ['.top left', '.center left', '.bottom left']
         ['.top right', '.center right', '.bottom right']
     ]
-
-
 
 }
