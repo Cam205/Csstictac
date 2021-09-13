@@ -32,3 +32,7 @@
 .right {
     border-left: 1px black solid;
 }
+
+#reset {
+    display: none;
+}
